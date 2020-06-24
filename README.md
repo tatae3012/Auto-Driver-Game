@@ -2,7 +2,7 @@
 
 ### ABOUT
 
-* AtoDriver game is built using Augmented Reality in Spark AR with mouth and tap interactions.
+* AutoDriver game is built using Augmented Reality in Spark AR with mouth and tap interactions.
 * This was developed under Facebook-School of Innovation program for theme partner JORDINDIAN.
 * Since copyrighted elements were incorporated, you are advised to add sounds and some materials on your own.
 
